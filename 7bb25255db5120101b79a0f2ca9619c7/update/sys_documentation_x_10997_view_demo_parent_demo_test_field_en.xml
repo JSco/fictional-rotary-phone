@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="test_field" label="Test Field" language="en" table="x_10997_view_demo_parent_demo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>test_field</element>
+            <help/>
+            <hint/>
+            <label>Test Field</label>
+            <language>en</language>
+            <name>x_10997_view_demo_parent_demo</name>
+            <plural>Test Fields</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-24 14:34:44</sys_created_on>
+            <sys_id>4833da55db5120101b79a0f2ca9619da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Test Field</sys_name>
+            <sys_package display_value="View Demo" source="x_10997_view_demo">7bb25255db5120101b79a0f2ca9619c7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="View Demo">7bb25255db5120101b79a0f2ca9619c7</sys_scope>
+            <sys_update_name>sys_documentation_x_10997_view_demo_parent_demo_test_field_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-24 14:34:44</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

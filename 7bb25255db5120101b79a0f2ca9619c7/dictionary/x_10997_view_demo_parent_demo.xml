@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Parent Demo" max_length="40" name="x_10997_view_demo_parent_demo" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Test Field" max_length="40" name="test_field" type="string"/>
+    </element>
+</database>

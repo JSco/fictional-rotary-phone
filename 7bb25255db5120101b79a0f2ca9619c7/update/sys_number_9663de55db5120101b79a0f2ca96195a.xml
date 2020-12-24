@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_10997_view_demo_child_demo">x_10997_view_demo_child_demo</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>VWCHI</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-24 14:35:41</sys_created_on>
+        <sys_id>9663de55db5120101b79a0f2ca96195a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>VWCHI</sys_name>
+        <sys_package display_value="View Demo" source="x_10997_view_demo">7bb25255db5120101b79a0f2ca9619c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="View Demo">7bb25255db5120101b79a0f2ca9619c7</sys_scope>
+        <sys_update_name>sys_number_9663de55db5120101b79a0f2ca96195a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-24 14:35:41</sys_updated_on>
+    </sys_number>
+</record_update>
