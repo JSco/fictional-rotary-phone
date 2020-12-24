@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Parent Demo" language="en" table="x_10997_view_demo_parent_demo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Parent Demo</label>
+            <language>en</language>
+            <name>x_10997_view_demo_parent_demo</name>
+            <plural>Parent Demos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-24 14:34:43</sys_created_on>
+            <sys_id>c833da55db5120101b79a0f2ca9619b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Parent Demo</sys_name>
+            <sys_package display_value="View Demo" source="x_10997_view_demo">7bb25255db5120101b79a0f2ca9619c7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="View Demo">7bb25255db5120101b79a0f2ca9619c7</sys_scope>
+            <sys_update_name>sys_documentation_x_10997_view_demo_parent_demo__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-24 14:34:43</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

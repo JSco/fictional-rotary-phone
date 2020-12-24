@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>test_field</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-24 14:34:44</sys_created_on>
+        <sys_data_policy display_value="Sets the Test Field field to mandatory">9c33da55db5120101b79a0f2ca9619f1</sys_data_policy>
+        <sys_id>d033da55db5120101b79a0f2ca9619f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test_field</sys_name>
+        <sys_package display_value="View Demo" source="x_10997_view_demo">7bb25255db5120101b79a0f2ca9619c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="View Demo">7bb25255db5120101b79a0f2ca9619c7</sys_scope>
+        <sys_update_name>sys_data_policy_rule_d033da55db5120101b79a0f2ca9619f5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-24 14:34:44</sys_updated_on>
+        <table>x_10997_view_demo_parent_demo</table>
+    </sys_data_policy_rule>
+</record_update>

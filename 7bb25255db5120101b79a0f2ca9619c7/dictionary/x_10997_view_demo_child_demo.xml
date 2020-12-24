@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Child Demo" max_length="40" name="x_10997_view_demo_child_demo" type="collection"/>
+</database>
