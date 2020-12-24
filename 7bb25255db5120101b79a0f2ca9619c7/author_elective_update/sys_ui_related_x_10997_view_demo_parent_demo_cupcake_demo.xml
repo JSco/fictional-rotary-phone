@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related action="DELETE" sys_domain="global" table="x_10997_view_demo_parent_demo" version="2" view="cupcake_demo">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Parent Demo - Cupcake Demo" name="x_10997_view_demo_parent_demo" related_list="NULL" sys_domain="global" view="5ac71699db5120101b79a0f2ca9619ee">d09fbfdddbd520101b79a0f2ca961966</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-24 22:28:14</sys_created_on>
+            <sys_id>589fbfdddbd520101b79a0f2ca961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-24 22:28:14</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Parent Demo - Cupcake Demo</calculated_name>
+            <filter/>
+            <name>x_10997_view_demo_parent_demo</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-24 22:28:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d09fbfdddbd520101b79a0f2ca961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Parent Demo - Cupcake Demo</sys_name>
+            <sys_package display_value="View Demo" source="x_10997_view_demo">7bb25255db5120101b79a0f2ca9619c7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="View Demo">7bb25255db5120101b79a0f2ca9619c7</sys_scope>
+            <sys_update_name>sys_ui_related_x_10997_view_demo_parent_demo_cupcake_demo</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-24 22:28:14</sys_updated_on>
+            <sys_user/>
+            <view display_value="Cupcake Demo" name="cupcake_demo">5ac71699db5120101b79a0f2ca9619ee</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="View Demo">7bb25255db5120101b79a0f2ca9619c7</application>
+        <file_path/>
+        <instance_id>0e612f4cdb84a3444f035d00cf961905</instance_id>
+        <instance_name>dev70799</instance_name>
+        <name>sys_ui_related_x_10997_view_demo_parent_demo_cupcake_demo</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_related sys_domain="global" table="x_10997_view_demo_parent_demo" version="2" view="cupcake_demo"><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="Parent Demo - Cupcake Demo" name="x_10997_view_demo_parent_demo" related_list="NULL" sys_domain="global" view="5ac71699db5120101b79a0f2ca9619ee">d09fbfdddbd520101b79a0f2ca961966</list_id><order_by/><position>0</position><related_list/><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-12-24 22:28:14</sys_created_on><sys_id>589fbfdddbd520101b79a0f2ca961967</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-12-24 22:28:14</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list action="INSERT_OR_UPDATE"><calculated_name>Parent Demo - Cupcake Demo</calculated_name><filter/><name>x_10997_view_demo_parent_demo</name><order_by/><position/><related_list/><sys_class_name>sys_ui_related_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-12-24 22:28:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d09fbfdddbd520101b79a0f2ca961966</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Parent Demo - Cupcake Demo</sys_name><sys_package display_value="View Demo" source="x_10997_view_demo">7bb25255db5120101b79a0f2ca9619c7</sys_package><sys_policy/><sys_scope display_value="View Demo">7bb25255db5120101b79a0f2ca9619c7</sys_scope><sys_update_name>sys_ui_related_x_10997_view_demo_parent_demo_cupcake_demo</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-12-24 22:28:14</sys_updated_on><sys_user/><view display_value="Cupcake Demo" name="cupcake_demo">5ac71699db5120101b79a0f2ca9619ee</view><view_name/></sys_ui_related_list></sys_ui_related></record_update>]]></payload>
+        <payload_hash>653729607</payload_hash>
+        <record_name>Parent Demo</record_name>
+        <reverted_from/>
+        <source>7267cb19db1520101b79a0f2ca961973</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-24 22:28:14</sys_created_on>
+        <sys_id>909fffdddbd520101b79a0f2ca96190b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17696ddebcd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-24 22:28:14</sys_updated_on>
+        <type>Related Lists</type>
+        <update_guid>1c9fffddc8d52010a82b8cde144bd40a</update_guid>
+        <update_guid_history>1c9fffddc8d52010a82b8cde144bd40a:653729607,ea136a553e912010d020ae50e72a140b:-1597443697</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-24 22:30:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_related_list">sys_ui_related_list</sys_db_object>
+        <sys_id>0bc4983decad4e14853f78412080dec4</sys_id>
+        <sys_metadata>d09fbfdddbd520101b79a0f2ca961966</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Parent Demo - Cupcake Demo</sys_name>
+        <sys_package display_value="View Demo" source="x_10997_view_demo">7bb25255db5120101b79a0f2ca9619c7</sys_package>
+        <sys_parent display_value="Parent Demo">f7239a55db5120101b79a0f2ca9619fc</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="View Demo">7bb25255db5120101b79a0f2ca9619c7</sys_scope>
+        <sys_scope_delete display_value="">44dc448b536d4a608b1b2e7ca8c59a31</sys_scope_delete>
+        <sys_update_name>sys_ui_related_x_10997_view_demo_parent_demo_cupcake_demo</sys_update_name>
+        <sys_update_version display_value="sys_ui_related_x_10997_view_demo_parent_demo_cupcake_demo">909fffdddbd520101b79a0f2ca96190b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-24 22:30:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

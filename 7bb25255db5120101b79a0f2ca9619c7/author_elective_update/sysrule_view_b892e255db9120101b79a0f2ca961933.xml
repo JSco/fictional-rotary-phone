@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysrule_view">
+    <sysrule_view action="DELETE">
+        <active>false</active>
+        <advanced>false</advanced>
+        <condition table="x_10997_view_demo_child_demo">sys_idISNOTEMPTY^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description/>
+        <device_type>browser</device_type>
+        <match_conditions>ALL</match_conditions>
+        <name>Always use Default View for child</name>
+        <order>100</order>
+        <overrides_user_preference>true</overrides_user_preference>
+        <script><![CDATA[(function overrideView(view, is_list) {
+
+	// Add your code here
+	answer = null;  // set the new view to answer
+
+})(view, is_list);]]></script>
+        <sys_class_name>sysrule_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-24 15:43:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b892e255db9120101b79a0f2ca961933</sys_id>
+        <sys_mod_count>22</sys_mod_count>
+        <sys_name>Always use Default View for child</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="View Demo" source="x_10997_view_demo">7bb25255db5120101b79a0f2ca9619c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="View Demo">7bb25255db5120101b79a0f2ca9619c7</sys_scope>
+        <sys_update_name>sysrule_view_b892e255db9120101b79a0f2ca961933</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-24 22:29:33</sys_updated_on>
+        <table>x_10997_view_demo_child_demo</table>
+        <view/>
+    </sysrule_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="View Demo">7bb25255db5120101b79a0f2ca9619c7</application>
+        <file_path/>
+        <instance_id>0e612f4cdb84a3444f035d00cf961905</instance_id>
+        <instance_name>dev70799</instance_name>
+        <name>sysrule_view_b892e255db9120101b79a0f2ca961933</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sysrule_view"&gt;&lt;sysrule_view action="INSERT_OR_UPDATE"&gt;&lt;active&gt;false&lt;/active&gt;&lt;advanced&gt;false&lt;/advanced&gt;&lt;condition table="x_10997_view_demo_child_demo"&gt;sys_idISNOTEMPTY^EQ&lt;item endquery="false" field="sys_id" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/condition&gt;&lt;description/&gt;&lt;device_type&gt;browser&lt;/device_type&gt;&lt;match_conditions&gt;ALL&lt;/match_conditions&gt;&lt;name&gt;Always use Default View for child&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;overrides_user_preference&gt;true&lt;/overrides_user_preference&gt;&lt;script&gt;&lt;![CDATA[(function overrideView(view, is_list) {
+
+	// Add your code here
+	answer = null;  // set the new view to answer
+
+})(view, is_list);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sysrule_view&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-12-24 15:43:20&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;b892e255db9120101b79a0f2ca961933&lt;/sys_id&gt;&lt;sys_mod_count&gt;22&lt;/sys_mod_count&gt;&lt;sys_name&gt;Always use Default View for child&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="View Demo" source="x_10997_view_demo"&gt;7bb25255db5120101b79a0f2ca9619c7&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="View Demo"&gt;7bb25255db5120101b79a0f2ca9619c7&lt;/sys_scope&gt;&lt;sys_update_name&gt;sysrule_view_b892e255db9120101b79a0f2ca961933&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-12-24 22:29:33&lt;/sys_updated_on&gt;&lt;table&gt;x_10997_view_demo_child_demo&lt;/table&gt;&lt;view/&gt;&lt;/sysrule_view&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>2109771513</payload_hash>
+        <record_name>Always use Default View for child</record_name>
+        <reverted_from/>
+        <source>7267cb19db1520101b79a0f2ca961973</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-24 22:29:33</sys_created_on>
+        <sys_id>e7dff311db1920101b79a0f2ca9619da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17696df1f2f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-24 22:29:33</sys_updated_on>
+        <type>View Rule</type>
+        <update_guid>63dff311a319201008e041bde50d01da</update_guid>
+        <update_guid_history>63dff311a319201008e041bde50d01da:2109771513,ae0d6a9d319120100a86b9cb16ec5043:-913689508,22fcee9d80912010d03ec010625c896f:-1207883045,d8cb6e9d0691201068fb02d0bb7c8180:1290201436,b08a6a5d69912010f482599bc4e1ce1a:-1207883045,c968e2d92a912010586def68cd11eee8:-1339299382,6548a2d94d9120102b61fab5a1a035ea:1158785099,8c182e99fa9120105663b69a0bcfb25e:1816707116,76e7e2999d9120100bbc5323e4344403:2078075018,3fd7e2993b9120104624151765975956:88565451,5c57e659e0912010c4e5b9dd2306b1bd:-913689508,62f6e659f5912010aa83619849026bb8:-1207883045,7ab6ae19dc9120103b61d51dd704a0da:-1910873224,c086ae19b9912010b754d401cdb0531a:-1217988797,83262619bd9120108cdab9a4aa881ac0:642897412,58a5a6d5f991201049d091d614d7d313:1816707116,7375e219a6912010c3a0a048bf27272a:-1910873224,693566d58f9120107d18e3cbdeefa95f:-113350293,a784a6952e912010be7565c588563277:1816707116,97546695c9912010983f599eab701aa4:-113350293,4834629555912010ea641dd3b4fd7103:-1910873224,b073ea55af9120105196bb123f23eec6:2109771513,1de2e655919120101907c3f869e84bb8:-1910873224</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-24 22:29:38</sys_created_on>
+        <sys_db_object display_value="" name="sysrule_view">sysrule_view</sys_db_object>
+        <sys_id>05d1c66e9fd84a9e96da9c9337183339</sys_id>
+        <sys_metadata>b892e255db9120101b79a0f2ca961933</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Always use Default View for child</sys_name>
+        <sys_package display_value="View Demo" source="x_10997_view_demo">7bb25255db5120101b79a0f2ca9619c7</sys_package>
+        <sys_parent display_value="Child Demo">4663de55db5120101b79a0f2ca961939</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="View Demo">7bb25255db5120101b79a0f2ca9619c7</sys_scope>
+        <sys_scope_delete display_value="">44dc448b536d4a608b1b2e7ca8c59a31</sys_scope_delete>
+        <sys_update_name>sysrule_view_b892e255db9120101b79a0f2ca961933</sys_update_name>
+        <sys_update_version display_value="sysrule_view_b892e255db9120101b79a0f2ca961933">e7dff311db1920101b79a0f2ca9619da</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-24 22:29:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
